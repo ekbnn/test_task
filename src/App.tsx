@@ -1,5 +1,11 @@
+import { FiveButtons } from "./Pages";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <FiveButtons />
+    </>
+  );
 }
 
 export default App;

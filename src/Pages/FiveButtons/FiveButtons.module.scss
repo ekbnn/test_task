@@ -1,0 +1,23 @@
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  gap:30px;
+  align-items: center;
+  padding: 100px;
+}
+
+
+.btn{
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  gap: 16px;
+}
+
+.btn_in{
+  display: flex;
+  flex-direction: row;
+  width: 240px;
+  gap: 8px;
+  margin-top: 16px;
+}
